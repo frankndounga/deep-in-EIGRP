@@ -37,10 +37,10 @@ and the answer equal 3584 the same metric we saw when we check R1 routing table
 7. Add loopback addresses on some routers to explore the router-id default selection of the protocol (i will add on router 1 and 3)
 
 ## include files
-routers configuration
-network topology
-router R1 route to the test destination file
-[packet tracer file] at the end of the lab test
+routers configuration, 
+network topology, 
+router R1 route to the test destination file,
+[packet tracer file] at the end of the lab test.
 
 
 
